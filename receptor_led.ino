@@ -11,7 +11,7 @@
     Nss         ->   D10
     Di00        ->   D2
     RST         ->   D9       
- */
+ 
 
 #include <SPI.h>
 #include <LoRa.h>   //Download here: http://electronoobs.com/eng_arduino_LoRa_SX1278.php.php
